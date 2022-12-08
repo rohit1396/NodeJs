@@ -1,0 +1,2 @@
+read-this
+This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner.
